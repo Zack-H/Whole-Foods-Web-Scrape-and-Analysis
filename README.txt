@@ -10,7 +10,8 @@ This project is an example of what work might be done by a data analyst at Corne
 
 Data
 The data for this project came directly from Whole Foods website (https://www.wholefoodsmarket.com/products/all-products). 
-By passing in parameters to retrieve only items on sale and for a specific store
+By passing in parameters to retrieve only items on sale and for a specific store, I retrieved only the items on sale at my local store as opssed to all items for sale.
+Since the dataset was limited to only items on sale at one store for one week, there were a limited number of results. Additionally, not all items had a sale price and prime price, since not all items offer an extra discount to Prime members.
 
 Notebooks
 
