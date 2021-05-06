@@ -20,6 +20,7 @@ Since the dataset was limited to only items on sale at one store for one week, t
 
 # Notebooks
 Data collection: https://github.com/Zack-H/sql-2021/blob/main/data_collection.ipynb
+
 Data analysis: https://github.com/Zack-H/sql-2021/blob/main/sql_analysis.ipynb
 
 
