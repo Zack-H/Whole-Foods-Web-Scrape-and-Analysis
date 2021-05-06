@@ -14,5 +14,7 @@ By passing in parameters to retrieve only items on sale and for a specific store
 Since the dataset was limited to only items on sale at one store for one week, there were a limited number of results. Additionally, not all items had a sale price and prime price, since not all items offer an extra discount to Prime members.
 
 Notebooks
+Data collection: https://github.com/Zack-H/sql-2021/blob/main/data_collection.ipynb
+Data analysis: https://github.com/Zack-H/sql-2021/blob/main/sql_analysis.ipynb
 
 Future Improvements
